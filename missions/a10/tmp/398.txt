@@ -1,0 +1,64 @@
+(goss NET 1)
+Tape 61/7
+Page 400
+03 22 48 54 CMP I don't hear you, Tom.    # log:3
+
+
+03 22 48 56 CDR 
+
+Okay.
+
+03 22 48 57
+
+Hey, can we go back to VHF B?
+
+03 22 49 00 CDR Let's go back to B Simplex.    # log:4
+
+03 22 49 22
+
+Hello - -
+
+03 22 49 23 CMP 
+
+Houston, this is Charlie Brown. Do you have any suggestions? 
+03 22 49 29 CC Stand by one, Charlie.
+03 22 49 30 CDR Charlie Brown, Snoop. How do you read on VHF BT?
+Can you read me on VHF B?
+
+03 22 49 39 CMP 
+
+I read you loud and clear, Tom.
+03 22 49 41 CDR
+Let's stay here.
+
+03 22 49 43 CMP Okay. # log:1
+03 22 49 50
+
+CMP Can we try Duplex B? Over.
+
+03 22 49 57
+
+CDR
+
+Stand by.
+
+03 22 50 06 CDR
+
+GO ahead on Duplex B.
+
+03 22 50 20 CMP Snoopy, Charlle Brown. How do you read?
+Over.
+03 22 50 21 CDR 
+
+
+
+Roger. Loud and clear, John, really loud and clear.
+
+03 22 50 33 CMP
+! can't hear you on Duplex B, Tom.
+
+03 22 50 37 CDR   # log:4
+
+
+Okay. her's go to B Simplex and stay there awhile, John.
+
