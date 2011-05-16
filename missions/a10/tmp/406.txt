@@ -1,0 +1,13 @@
+Tape 61/13
+Page 406
+
+03 23 15 15 CMP Roger. Go ahead.
+
+03 23 15 17 CC Okay. For Charlie Brown: this is VHF/AM A Simplex basic check. Your VHF/AM A switch in Simplex, VHF/AM B in OFF. VHF/AM receive only in OFF, VHF ranging OFF. And for Snoopy: VHF transmitter A to VOICE, VHF receiver A to ON, and on the commander's audio center your VHF A transmit/recetve to TR.
+
+03 23 16 00 LMP Okay. For Snoopy that was VHF A transmit voice receiver ON, and what was the last one?
+
+03 23 16 04 CC VHF receiver A to ON, end on the commander's audio side, the VHF A TR to TR, and check all circuit breakers IN.
+
+END OF TAPE
+

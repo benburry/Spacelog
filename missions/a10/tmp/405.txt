@@ -1,0 +1,38 @@
+Tape 61/12 
+Page 405
+
+03 23 06 38 CMP Okay. You've got to have a P52 first, huh? 
+
+03 23 06 41 CC That's affirmative.
+
+03 23 06 53 CDR Hey, C.B.?
+
+03 23 07 15 CDR Hello, Houston. This is Snoopy. I'm standing up here in the hatch. Do you want us to do a P52 right now or do you want us to start working on the hatch to get that out of the way? Over. 
+
+03 23 07 28 CC Snoopy, we want you to get the P52 in before go LOS, which is going to be in 33 minutes.
+
+03 23 07 55 LMP Hello Houston, Houston. This is the LMP back in Snoopy. 
+
+03 23 07 58 CC Roger. We read you loud and clear, Gene-o.
+
+03 23 08 05 LMP Okay, Jack. I'm gettin_ on my hoses here and I'll be with you in a second. 
+
+03 23 09 55 CC Charlie, this is Houston. Let's take an option 1 on that. 
+
+03 23 11 18 CMP Aha! Today it picks up the LM.
+
+03 23 11 40 CMP Hello, Houston. This is Snoopy. I'm going to go ahead with the ascent battery activation and checkout at this time. Over. 
+
+03 23 11 49 CC Roger. We copy, Snoop. 
+
+03 23 12 50 LMP Houston, bus voltage on ascent battery alone looks like it's about 30 volts apiece. 
+
+03 23 12 57 CC Roger. We copy, Snoop. 
+
+03 23 14 21 CMP Houston, you got those GYRO torquing angles? 
+
+03 23 14 26 CC Over. We're copying them down. Stand by.
+
+03 23 14 4O CC Okay, Charlie. We've got them.
+
+03 23 15 02 CC Okay, Charlie and Snoopy. We've got some switches for you to check on the VHF-A COMM situation.

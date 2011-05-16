@@ -1,0 +1,36 @@
+Tape 61/8
+Page 401
+
+03 22 50 48 CC Charlie, this is Houston. Snoopy wants to go to B Simplex. He's reading you; you're not reading him.
+
+03 22 50 57 CMP Roger. I read you loud and clear on B Simplex, Tom.
+
+03 22 51 01 CDR Roger. I'm reading you loud and clear on B Simplex, too, John. Let's just stay here. 
+
+03 22 51 35 CMP Houston, Charlie Brown. Can you work this problem, please? 
+
+03 22 51 37 CC We're working on it, Charlie. 
+
+03 22 52 44 CC Charlie, this is Houston.  We're finished with your computer. You can go to BLOCK.
+
+03 22 52 53 CMP Roger.
+
+03 22 52 55 CDR Okay, Cbarlie Brovn. Snoopy. You want to give me a time hack on VERB 16 NOUN 65? Or your mission time. It doesn't matter. 
+
+03 22 53 14 CMP Okay, Snoopy. Time hack follows: 94 53 17 18 19 20
+
+03 22 53 26 CDR Okay. We're in good shape, here, until we get an update. It looks good. Let's go, and give me VERB 05 NOUN O1 1706, ENTER. See if that's changed and give me the numbers, babe. 
+
+03 22 53 54 CMP Roger. VERB 05 NOUN 01: three balls 12, 13256, 332, 66. 
+
+03 22 53 58 CDR Okay. Got it. Thank you.
+
+03 22 55 05 CDR Hello, Houston. This is Snoopy. Over.
+
+03 22 55 08 CC Go ahead, Snoop. Houston standing by.
+
+03 22 55 14 CDR Okay. If you have high gain lock, I'm ready for my E-memory dump on page 33.
+
+03 22 55 31 CC Snoopy, this is Houston. Put your update link to DATA, and we are ready for the E-memory dump. Over.
+
+03 22 55 39 CDR Okay.

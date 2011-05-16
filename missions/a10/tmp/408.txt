@@ -1,0 +1,36 @@
+Tape 62/2
+Page 408 
+
+03 23 18 25 CMP Okay. How do you read now?
+
+03 23 18 27 CDR John, I'm reading you loud and clear. How do you read me? Over.
+
+03 23 18 33 CMP I don't read you. 
+
+03 23 18 36 LMP John, do you read me on Simplex B?
+
+03 13 18 38 CMP Yes. Loud and clear.
+
+03 23 18 42 CDR Okay, John. We got it nov. Let's go ahead with VERB 06, NOUN 20, and tell me when you're ready, and I'll count you down. Over. 
+
+03 23 18 54 CMP Okay. Go.
+
+03 23 18 56 CDR Okay. 3, 2, 1.
+
+03 23 19 00 CDR MARK.
+
+03 23 19 02 CMP Okay. Plus 13552, plus 19371, plus 00132.
+
+03 23 19 16 CDR Okay. I've got all those. Plus 13552, plus 19371, plus 00132. Over. 
+
+03 23 19 24 CMP Check.
+
+03 93 19 42 CDR Okay, Houston. This is Snoopy. Ready to copy my angles? Over.
+
+03 23 19 45 CC Go ahead, Snoop.
+
+03 93 19 50 CDR Okay. My angles at 06 20: plus 012. Pardon me, my first ... plus 16354, plus 01299, plus 35901, and I assume that you copy, John. Oh, pardon, that's 35906 on the last register. 
+
+03 23 20 17 CC Okay, Snoopy. We copy, John. Then on yours we got plus 16354, plus 01299, plus 35906.
+
+03 23 20 29 CDR That's correct. Thank you.
