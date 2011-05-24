@@ -1,0 +1,34 @@
+	Tape 61/9 
+	Page 402 
+
+03 22 55 53 CDR Updata link to DATA and E-memory dump coming at you. 
+
+03 22 55 56 CDR MARK. 
+
+03 22 55 58 CC Roger, Snoop. We copy.
+
+03 22 56 01 CDR Hello, Charlie  Brown. Snoopy here.
+
+03 22 56 10 CMP Go ahead, Gene. This is John.
+
+03 22 56 11 CDR Okay, Jose. How are you doing? I'm ready to do that docked alignment - the docked alignment if you are. How are you doing there? 
+
+03 22 56 25 CMP Okay. I'm about ready.
+
+03 22 56 31 CDR Okay, John. When you get all squared away, we go in the minimum deadband attitude hold, hold the rascal tight; and then on your mark, if you can give me VERB 06 NOUN 20, and then just hold it until I get my alignment squared away. 
+
+03 22 56 52 CMP Okay. I'm going to SCS and then deadband.
+
+03 22 57 04 CMP Okay. We're in MIN deadband.
+
+03 22 57 07 CDR Okay. If you're in MIN deadband attitude hold and when it all settles down there, give me VERB 06 NOUN 20, and we'll bare at it. Over. 
+
+03 22 57 16 CMP Roger. VERB 06 NOUN 20: it's 13807 20094 00055.
+
+03 22 57 34 CDR Okay. Reading them back: number 1,13807; number 2,20094; number 3,00055. Over. 
+
+03 22 57 44 CMP That is correct.
+
+03 22 57 45 CDR Okay. Hold it there and we will be at it.
+
+03 22 59 51 CC Charlle Brown, this is Houston. We have your DAP update pad when you're ready.

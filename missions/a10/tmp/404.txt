@@ -1,0 +1,38 @@
+	Tape 61/11 
+	Page 404
+
+03 23 01 25 CMP Right.
+
+03 23 O1 26 CDR Okay.
+
+03 23 01 56 CDR Hello, Houston. This is Snoopy.
+
+03 23 01 56 CC Go ahead, Snoopy.
+
+03 23 02 02 CDR Roger. Did you read out that John's VERB 06 NOUN 20?
+
+03 23 02 08 CC That's affirmative. We copied: 13801, plus 20067, plus 00048.
+
+03 23 02 18 CDR Okay. And here are my gimbal angles: plus 16070, plus 02023, plus 35973. Over.
+
+03 23 02 31 CC Okay, Snoop. We got you: plus 16070, plus 02023, plus 30 - correction - plus 35973.
+
+03 23 02 44 CDR That is correct and we're still running 35 to 45 minutes ahead of time. Over. 
+
+03 23 02 53 CC Snoopy, this is Houston. We would like you to check your T-ephemeris. We think it's incorrect. 
+
+03 23 03 O1 CDR Okay. I'l recheck it. Thank you.
+
+03 23 03 19 CMP Okay. I got three balls 12, 13256, and 33266 - here, Tom.
+
+03 23 03 28 CDR And that's exactly what I've monitored. If yom read my DSKY, I've got it three balls 12, 13256, 33266. Over. 
+
+03 23 03 51 CMP Instant sunset.
+
+03 23 04 56 CC Roger, Charlie.
+
+03 23 05 09 CDR Hello, Houston. This is Snoopy. I'm going to jump way ahead and get my rate GYRO check out of the way. 
+
+03 23 05 09 CC Roger, Snoop. We copy. 
+
+03 23 06 20 CC Charlie Brown, this is Houston. We're going to have to do a P52 and then repeat step on your activation 35.

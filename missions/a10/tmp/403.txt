@@ -1,0 +1,36 @@
+	Tape 61/10
+	Page 403
+
+03 23 00 O1 CMP Roger. Go ahead.
+
+03 23 00 03 CDR Okay. John - John, you can go ahead end release it, the minimum deadband. We're all out on the course align and we're squared away. 
+
+03 23 00 11 CMP Okay. Go back to CMC in AUTO.
+
+03 23 00 14 CDR Okay. And real fast here: if you can give me a VERB 06 NOUN 20, we'll mark it forward and call the ground on a fine align. 
+
+03 23 00 26 CDR Let me know and I'll give the ENTER on VERB 06 NOUN 20. Are you I ready?
+
+03 23 00 29 CMP Okay. Go ahead.
+
+03 23 00 30 CDR Okay. 3, 2, 1.
+
+03 23 00 34 CDR Mark it.
+
+03 23 00 35 CMP You got it.
+
+03 23 00 36 CDR Okay. Read it to me, babe.
+
+03 23 00 37 CMP Let's do another on that one, Tom. I was a little late on that one.
+
+03 23 00 43 CDR Okay. Just a couple of seconds. Okay. Counting you down: 4, 3, 2, 1. 
+
+03 23 00 53 CDR Mark it.
+
+03 23 00 55 CMP Okay. Plus 13801, plus 20067, plus 00048.
+
+03 23 01 12 CDR Okay. Was the first one 138?
+
+03 23 O1 16 CMP Right. Plus 138. 
+
+03 23 O1 17 CDR 138011, plus 20067, plus 00048.

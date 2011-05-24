@@ -1,0 +1,41 @@
+	APOLLO 10 AIR-TO-GROUND VOICE TRANSCRIPTION
+
+	Tape 62/1
+	Page 407
+
+03 23 16 29 CMP Roger. That was the setup I had there, Jack.
+
+03 23 16 35 CC Roger. Thank you, John.
+
+03 23 16 38 CDR Hello, Charlie Brown. Snoopy. How do you read on VHF A Simplex?
+
+03 23 16 48 CMP I read you same as before, Tom, which is unreadable.
+
+03 23 16 53 CMP John, do you read me amy better?
+
+03 23 16 57 CMP Negative. I can hear you through the tunnel.
+
+03 23 17 03 LMP Okay. But you don't bear me any better, huh? Okay.
+
+03 23 17 15 CC Snoopy and Charlie Brown, this is Houston. We're ready for you to do step 7 on your coarse align procedure. 
+
+03 23 17 27 CDR Okay, John. How do you read now?
+
+03 23 17 37 CMP Okay. We're going to have to go back to - 0kay, go ahead, Tom. 
+
+03 23 17 46 CDR Okay, John.
+
+03 2S 17 47 CMP Are you on Duplex B, Tom?
+
+03 23 17 49 CDR ... VERB 06, NOUN ... 
+
+OS 23 17 50 CMP - - Simplex A?
+
+03 23 17 51 CDR - - and I'll count you down. Okay?
+
+03 23 17 58 CMP Hey, Tom, are you on Simplex A or B?
+
+03 23 18 04 CDR John, let's don't screw with them. Let's go on to B, and we'll get this stuff out of the way. 
+
+03 23 18 11 CC Charlie, this is Houston. He wants to go to Simplex B.
+

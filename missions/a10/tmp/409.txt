@@ -1,0 +1,35 @@
+    Tape 62/3
+    Page 409
+
+03 23 20 33 LMP And, Houston, this is Snoopy. The ascent batteries look good. The backup and normal feed is good. And my ED voltage is 37 on A and 37 on B. 
+
+03 23 20 45 CC Roger. We copy. 37 on ED's.
+
+03 23 21 10 CDR Charlie Brown, Snoopy. Our next step here - We got to have the hatch closed, so I'll stand by to help you with the probe and drogue when you're ready, babe.
+
+03 23 21 19 CMP Roger.
+
+03 23 24 46 LMP Houston, this is Snoopy. How about giving me the next LOS end the next AOS time, please?
+
+03 23 24 52 CC Okay, Snoopy. Your next LOS will be at 95 40, and your next AOS will be at 96 27. And I have some LM GYRO torque angles for you. 
+
+03 23 25 14 LMP Stand by half a second.
+
+03 23 25 45 LMP Okay. Go ahead with your LM GYRO torque angles.
+
+03 23 25 48 CC Okay. LM GYRO torque: X, minus 00730; Y minus 00700; Z, plus 00570.
+
+03 23 26 08 LMP Okay. I got X, minus 00730; Y, minus 00700; and Z is plus 00570. Is that correct? 
+
+03 23 26 18 CC That's affirmative. You've got them right. There's one more thing we can try an our VHF situation. We may have the corona built up on our VHF A transmitter, so VHF A transmitter switch OFF for several seconds and then back to VOICE. Over.
+
+03 23 26 38 LMP I don't think that will work, Jack. When we just tried it again, it had been in the OFF position. I put it to VOICE. We'll give it a try here in minute, though.
+
+03 23 26 45 CC Roger.
+
+03 23 26 52 LMP I was suiting up while this COMM problem started. Is it a VHF A Simplex mode?
+
+03 23 26 58 CC That's affirmative. Unable to transmit Snoopy to Charlie Broun on VHF A. 
+
+03 23 27 08 LMP Okay. That sort of blows the ranging capability, doesn't it.
+

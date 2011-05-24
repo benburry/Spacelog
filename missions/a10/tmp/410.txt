@@ -1,0 +1,39 @@
+    Tape 62/4
+    Page 410
+    
+03 23 27 18 CC That's affirmative.
+
+03 23 28 15 LMP Houston, this is Snoopy. While they're closing off the probe and drogue and hatch, I'll copy some of those updates, burn update times, if you got them. 
+
+03 23 28 29 CC Roger. Stand by one, please. 
+
+03 23 28 47 CC Okay, Snoopy. We have these burn times. They're nominal burn times; they'll change a little bit either way. Separation is 98 47 16. DOI, 099 46 02. Phasing, 100 58 - -
+
+03 23 29 00 LMP Wait a minute, Jack. Wait a minute. Wait a minute. Wait a minute. I can only copy them down one at a time. I want to copy them right in the book. Now go on with DOI. 
+
+03 23 29 19 CC Roger. 099 46 02. Over.
+
+03 23 29 3O LMP Okay. Go on with phasing.
+
+03 23 29 32 CC Okay. Phasing is at 100 58 25.
+
+03 23 29 47 LMP Okay. Insertion.
+
+03 23 29 49 CC Insertion is at 102 54 37.
+
+03 23 30 00 CC And, Charlie Brown, this is Houston - -
+
+03 23 30 01 LMP ... that's all we need right now, huh?
+
+03 23 30 04 CC Charlie Brown, this is Houston. Your roll Jets to DISABLE, please.
+
+03 23 30 13 CMP All roll jets - wait - wait a minute. We'll - Okay, we'll disable the roll jets. Did we maneuver to the landmark tracking attitude with just the probe holding? 
+
+03 23 3O 23 CC Stand by.
+
+03 23 30 24 CMP We haven't released the capture latches yet, Jack.
+
+03 23 30 28 CC Roger. Stand by.
+
+03 23 32 10 CMP Houston, this is Charlie Brown. Over.
+
