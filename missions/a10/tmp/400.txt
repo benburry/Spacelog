@@ -36,4 +36,3 @@
 03 22 50 33 CMP I can't hear you on Duplex B, Tom.
 
 03 22 50 37 CDR Okay. Let's go to B Simplex and stay there awhile, John.
-

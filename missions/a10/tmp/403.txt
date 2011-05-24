@@ -33,4 +33,4 @@
 
 03 23 O1 16 CMP Right. Plus 138. 
 
-03 23 O1 17 CDR 138011, plus 20067, plus 00048.
+03 23 O1 17 CDR 13801, plus 20067, plus 00048.

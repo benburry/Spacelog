@@ -10,4 +10,3 @@
 03 23 16 04 CC VHF receiver A to ON, end on the commander's audio side, the VHF A TR to TR, and check all circuit breakers IN.
 
 	END OF TAPE
-
